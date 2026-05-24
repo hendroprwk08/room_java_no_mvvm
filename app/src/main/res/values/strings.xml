@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">ROOM</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="tidak">Tidak</string>
+    <string name="batal">Batal</string>
+    <string name="nama">Nama</string>
+
+    <string-array name="kelas">
+        <item>Manajemen Informatika</item>
+        <item>Informatika Komputer</item>
+        <item>Sistem Informasi</item>
+    </string-array>
+</resources>
